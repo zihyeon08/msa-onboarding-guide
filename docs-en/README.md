@@ -6,23 +6,23 @@ This guide is for people joining the Microsoft Student Ambassadors (MSA) program
 
 ### Quick Start
 
-1. **Program Overview** — Learn what MSA is and why you should join → [01-overview.md](docs-en/01-overview.md)
-2. **Registration & Flow** — Apply on the official registration site and review the Step 1–5 registration process plus the full flowchart → [02-registration.md](docs-en/02-registration.md)
-3. **Azure for Students Setup** — Complete this mandatory requirement right after registration → [03-azure-for-students.md](docs-en/03-azure-for-students.md)
-4. **Path Selection** — Choose either Community Influencer or Community Skiller → [04-path-selection.md](docs-en/04-path-selection.md)
-5. **Start Path Activities** — Follow the detailed guide for your chosen path → [05-community-influencer.md](docs-en/05-community-influencer.md) / [06-community-skiller.md](docs-en/06-community-skiller.md)
+1. **Program Overview** — Learn what MSA is and why you should join → [01-overview.md](01-overview.md)
+2. **Registration & Flow** — Apply on the official registration site and review the Step 1–5 registration process plus the full flowchart → [02-registration.md](02-registration.md)
+3. **Azure for Students Setup** — Complete this mandatory requirement right after registration → [03-azure-for-students.md](03-azure-for-students.md)
+4. **Path Selection** — Choose either Community Influencer or Community Skiller → [04-path-selection.md](04-path-selection.md)
+5. **Start Path Activities** — Follow the detailed guide for your chosen path → [05-community-influencer.md](05-community-influencer.md) / [06-community-skiller.md](06-community-skiller.md)
 
 ### Document Index
 
 | Document | Description |
 |---|---|
-| [01-overview.md](docs-en/01-overview.md) | MSA introduction, program direction, level-based benefits, eligibility |
-| [02-registration.md](docs-en/02-registration.md) | Step 1–5 registration guide, full flowchart, path comparison |
-| [03-azure-for-students.md](docs-en/03-azure-for-students.md) | Mandatory Azure for Students setup (Steps 1–3) |
-| [04-path-selection.md](docs-en/04-path-selection.md) | Contributor ID guide, two-path comparison table |
-| [05-community-influencer.md](docs-en/05-community-influencer.md) | Detailed Community Influencer guide (URL sharing, eligible URLs, Preferred Visitors) |
-| [06-community-skiller.md](docs-en/06-community-skiller.md) | Detailed Community Skiller guide (Learn Plan creation, net-new modules) |
-| [07-faq.md](docs-en/07-faq.md) | Frequently asked questions Q1–Q8 |
+| [01-overview.md](01-overview.md) | MSA introduction, program direction, level-based benefits, eligibility |
+| [02-registration.md](02-registration.md) | Step 1–5 registration guide, full flowchart, path comparison |
+| [03-azure-for-students.md](03-azure-for-students.md) | Mandatory Azure for Students setup (Steps 1–3) |
+| [04-path-selection.md](04-path-selection.md) | Contributor ID guide, two-path comparison table |
+| [05-community-influencer.md](05-community-influencer.md) | Detailed Community Influencer guide (URL sharing, eligible URLs, Preferred Visitors) |
+| [06-community-skiller.md](06-community-skiller.md) | Detailed Community Skiller guide (Learn Plan creation, net-new modules) |
+| [07-faq.md](07-faq.md) | Frequently asked questions Q1–Q8 |
 
 ### Contact
 
