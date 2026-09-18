@@ -11,18 +11,20 @@ This guide is for people joining the Microsoft Student Ambassadors (MSA) program
 3. **Azure for Students Setup** — Complete this mandatory requirement right after registration → [03-azure-for-students.md](03-azure-for-students.md)
 4. **Path Selection** — Choose either Community Influencer or Community Skiller → [04-path-selection.md](04-path-selection.md)
 5. **Start Path Activities** — Follow the detailed guide for your chosen path → [05-community-influencer.md](05-community-influencer.md) / [06-community-skiller.md](06-community-skiller.md)
+6. **Create a Contributor URL** — Follow the practical guide for adding your Contributor ID to a content URL → [08-contributor-url.md](08-contributor-url.md)
 
 ### Document Index
 
-| Document | Description |
-|---|---|
-| [01-overview.md](01-overview.md) | MSA introduction, program direction, level-based benefits, eligibility |
-| [02-registration.md](02-registration.md) | Step 1–5 registration guide, full flowchart, path comparison |
-| [03-azure-for-students.md](03-azure-for-students.md) | Mandatory Azure for Students setup (Steps 1–3) |
-| [04-path-selection.md](04-path-selection.md) | Contributor ID guide, two-path comparison table |
+| Document                                                 | Description                                                                          |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [01-overview.md](01-overview.md)                         | MSA introduction, program direction, level-based benefits, eligibility               |
+| [02-registration.md](02-registration.md)                 | Step 1–5 registration guide, full flowchart, path comparison                         |
+| [03-azure-for-students.md](03-azure-for-students.md)     | Mandatory Azure for Students setup (Steps 1–3)                                       |
+| [04-path-selection.md](04-path-selection.md)             | Contributor ID guide, two-path comparison table                                      |
 | [05-community-influencer.md](05-community-influencer.md) | Detailed Community Influencer guide (URL sharing, eligible URLs, Preferred Visitors) |
-| [06-community-skiller.md](06-community-skiller.md) | Detailed Community Skiller guide (Learn Plan creation, net-new modules) |
-| [07-faq.md](07-faq.md) | Frequently asked questions Q1–Q8 |
+| [06-community-skiller.md](06-community-skiller.md)       | Detailed Community Skiller guide (Learn Plan creation, net-new modules)              |
+| [07-faq.md](07-faq.md)                                   | Frequently asked questions Q1–Q8                                                     |
+| [08-contributor-url.md](08-contributor-url.md)           | How to add a Contributor ID to a content URL and final checklist                     |
 
 ### Contact
 
